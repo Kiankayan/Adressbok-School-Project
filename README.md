@@ -1,16 +1,16 @@
-# Adressbok
+# Address Book (School Project)
 
-En responsiv adressbok byggd med React och TypeScript.
+A responsive employee directory application built with React and TypeScript.
 
-## Funktioner
+## Features
 
-- Hämtar anställda från Random User API
-- Söka efter anställda
-- Sortera efter förnamn och efternamn
-- Visa detaljer om varje anställd
-- Responsiv design för desktop, tablet och mobil
+- Fetches employee data from the Random User API
+- Search for employees
+- Sort employees by first name and last name
+- View detailed information about each employee
+- Responsive design for desktop, tablet, and mobile
 
-## Teknik
+## Tech Stack
 
 - React
 - TypeScript
@@ -18,3 +18,9 @@ En responsiv adressbok byggd med React och TypeScript.
 - CSS
 - Vite
 - Lucide React
+
+## Project Information
+
+**Project Type:** School Project
+
+**Education:** Intensive Code – Full Stack Developer
