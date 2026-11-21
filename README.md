@@ -2,6 +2,18 @@
 
 A responsive employee directory application built with React and TypeScript.
 
+
+## Screenshots
+
+### Employee Directory
+![Employee Directory](screenshots/etta.png)
+![Employee Directory](screenshots/tvåa.png)
+
+### Employee Details
+![Employee Details](screenshots/tredje.png)
+![Employee Details](screenshots/fjärde.png)
+
+
 ## Features
 
 - Fetches employee data from the Random User API
