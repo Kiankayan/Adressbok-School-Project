@@ -1,7 +1,7 @@
+
 # Address Book (School Project)
 
 A responsive employee directory application built with React and TypeScript.
-
 
 ## Features
 
@@ -22,19 +22,18 @@ A responsive employee directory application built with React and TypeScript.
 
 ## Project Information
 
-
-## Screenshots
-
-### Employee Directory
-![Employee Directory](screenshots/etta.png)
-![Employee Directory](screenshots/tvåa.png)
-
-### Employee Details
-![Employee Details](screenshots/tredje.png)
-![Employee Details](screenshots/fjärde.png)
-
 **Project Type:** School Project
 
 **Education:** Intensive Code – Full Stack Developer
 
+## Screenshots
 
+### Employee Directory
+
+![Employee Directory](screenshots/etta.png)
+![Employee Directory](screenshots/tvåa.png)
+
+### Employee Details
+
+![Employee Details](screenshots/tredje.png)
+![Employee Details](screenshots/fjärde.png)
